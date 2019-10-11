@@ -1,0 +1,13 @@
+PARTS:
+
+CONNECTIONS:
+5V connected to MAX7219 5V
+Gnd connected to MAX7219 Gnd
+Port13 connected to MAX7219 Clk
+Port11 connected to MAX7219 Din
+Port10 connected to MAX7219 CS
+
+Port9 connected to Button
+Gnd connected to Button
+
+Port8 connected to Motor...
